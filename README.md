@@ -4,3 +4,5 @@ Uma calculadora interativa feita em Java com interface gráfica (JFrame) que sim
 
 ---
 
+# 📸 Preview da interface
+![Interface](Interface.png)
